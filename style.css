@@ -475,6 +475,20 @@ h2{
     font-size: 24px;
     margin-bottom: 16px;
 }
+.link_school{
+    text-decoration: none;
+    color: var(--blue);
+    font-weight: 700;
+}
+.link_school:hover {
+    border-bottom: 2px solid var(--blue);
+
+  }
+
+.link_school:active {
+    border-bottom: 2px solid var(--blue);
+
+  }
 /* features schoolapp section start */
 
 
